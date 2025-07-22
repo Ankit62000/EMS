@@ -136,7 +136,7 @@ http://localhost:5173/
 ## 🙌 Author
 
 **Ankit **  
-GitHub: [@ankit62000](https://github.com/ankitchaturvedi)  
+GitHub: [@Ankit62000](https://github.com/Ankit62000)  
 Project by [Ankit ]
 
 ---
