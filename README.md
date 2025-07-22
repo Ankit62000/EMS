@@ -68,39 +68,12 @@ src/
 ## 🔗 Live Demo
 
 🌐 **Deployed on:** Vercel  
-🔗 **Live Site:** [https://fitrashtra-task.vercel.app](https://fitrashtra-task.vercel.app)
+🔗 **Live Site:** [https://ems-zeta-cyan.vercel.app/]
 
 ---
 ---
 
-## 🧾 How to Run the Project
 
-### 1. Clone the repo
-
-\`\`\`bash
-git clone https://github.com/yourusername/task-dashboard.git
-cd task-dashboard
-\`\`\`
-
-### 2. Install dependencies
-
-\`\`\`bash
-npm install
-\`\`\`
-
-### 3. Start the development server
-
-\`\`\`bash
-npm run dev
-\`\`\`
-
-### 4. Open in browser
-
-\`\`\`
-http://localhost:5173/
-\`\`\`
-
----
 
 ## 🗃️ Data Persistence
 
